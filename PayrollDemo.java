@@ -1,5 +1,3 @@
-//Selina Narain March 31 2020
-
 public class PayrollDemo
 {
     public static void main()
